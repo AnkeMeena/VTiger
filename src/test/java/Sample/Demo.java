@@ -7,6 +7,7 @@ public class Demo {
 	public void Sample()
 	{
 		System.out.println("this is the first commit");
+		System.out.println("second");
 	}
 
 }
