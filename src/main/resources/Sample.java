@@ -3,7 +3,7 @@ public class Sample {
 	public void hello()
 	{
 		System.out.println("new feature");
-		System.out.println("hi");
+		System.out.println("hello");
 	}
 
 }
